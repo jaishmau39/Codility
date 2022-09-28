@@ -17,8 +17,15 @@ namespace Codility
             //Console.WriteLine(string.Join(",", sl1.Solution(new int[] { 2, 3, 5, 7 }, 3)));
 
             //PermMissingElem
-            var sl2 = new PermMissingElem();
-            Console.WriteLine(sl2.Solution(new int[] {2,3,1,5}));
+            //var sl2 = new PermMissingElem();
+            //Console.WriteLine(sl2.Solution(new int[] {2,3,1,5}));
+
+            //OddOccurenceInArray
+            //var sl3 = new OddOccurrencesInArray();
+            //Console.WriteLine(sl3.Solution(new int[] {9,3,9,3,9,7,9}));
+            //Console.WriteLine(sl3.Solution(new int[] { 2,3,2,2,2,1,3 }));
+
+
         }
     }
 }
